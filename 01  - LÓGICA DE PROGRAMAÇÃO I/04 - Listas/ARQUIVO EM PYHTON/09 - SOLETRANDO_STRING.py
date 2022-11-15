@@ -1,4 +1,5 @@
-# 09 - SEPARANDO STRING 
+#  09 - Faça um programa que peça para o usuário digitar uma palavra e imprima cada letra em uma linha.
+
 
 nome = 'ENZO CONCEIÇÃO DOS SANTOS'
 
