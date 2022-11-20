@@ -20,3 +20,4 @@ img = io.imread('images/numpy-logo.jpg') # Carregamento da imagem
 print(type(img))
 
 plt.imshow(img) # Exibição da imagem
+# fim
