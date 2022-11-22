@@ -1,5 +1,5 @@
 
-<img align="top" alt="DIVERSIDADE" height="170" style="border-radius:30px;" src="https://github.com/EnzoDev97/Ada_By_Lets-sCode_Diversidade_Tech/blob/main/DIVERSIDADE.png?raw=true">   
+<img align="top" alt="DIVERSIDADE" height="300" style="border-radius:30px;" src="https://github.com/EnzoDev97/Ada_By_Lets-sCode_Diversidade_Tech/blob/main/DIVERSIDADE.png?raw=true">   
 
 
 
