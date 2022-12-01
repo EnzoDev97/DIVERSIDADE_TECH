@@ -84,7 +84,8 @@ for idx, elemento in enumerate(tupla):
 
 #Outra utilidade de tuplas: fazer uma função retornar mais de um valor
   
-Outra utilidade de tuplas: fazer uma função retornar mais de um valor
+#Outra utilidade de tuplas: fazer uma função retornar mais de um valor
+
 def seq(x):
   return x, 2*x, 3*x
 
